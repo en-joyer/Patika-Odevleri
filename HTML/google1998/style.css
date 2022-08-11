@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+table {
+    border: 0;
+    text-align: center;
+    align-items: center;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#IlkTablo {
+    background-color: #EEEEEE;
+}
+
+#Special {
+    background-color: #7EE5DA;
+}
+#Help {
+    background-color: #70CCC2;
+    text-align: center;
+}
+#Updates {
+    text-align: center;
+    background-color: #62B3AA;
+}
+p {
+    text-align: center;
+    font-size: -1;
+}
